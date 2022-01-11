@@ -1,6 +1,6 @@
 ## <div align="center">Plus One</div>
 
-#### <div align="center">📚 _LeetCode Problem #66 (**Level Easy**) 01/11/2022_ </div>
+#### <div align="center">📚 _LeetCode Problem [# 66 "Plus One"](https://leetcode.com/problems/plus-one/) (**Level Easy**) 01/11/2022_ </div>
 
 **_<p align="right">By Daniel Adeyemi_**</p>
 
@@ -12,11 +12,7 @@
 
 <div><img src="https://st2.depositphotos.com/1001201/5314/i/950/depositphotos_53145427-stock-photo-problem-and-confusion-of-businessman.jpg" alt="Bakery image" width="50%" display="block" margin-left="auto" margin-right="auto"/></div>
 
----
-
-## <div align="center"> 🚩 _Description_:</div>
-
-##### **_This is solutions for Leet Code problem [# 66 "Plus One"](https://leetcode.com/problems/plus-one/)._**
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ### <div align="center"> 🤔 Problem description:
 
@@ -24,14 +20,20 @@ You are given a large integer represented as an integer array digits, where each
 
 Increment the large integer by one and return the resulting array of digits.
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ## <div align="center"> 🚥 Tests
 
 <img src="assets/1.png" width=50% display="block" margin-left="auto" margin-right="auto"/>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## <div align="center"> 🛠️ _Technologies used:_
 
 - Python 3.9
 - JavaScript
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## <div align="center"> 🌟 _Teaching points:_
 
@@ -39,8 +41,17 @@ Increment the large integer by one and return the resulting array of digits.
 - don't forget to cast before join an array and also split result back
 - for Python int cover all the cases for big int
 - when join and split in Python we need to do casting for each element individually
-- time complexity is **O(n)** since we loop twice to join an array and then to split result.
-- Space complexity is **O(1)** which is technically **_O(2)_** since we are creating extra element with same length
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## <div align="center"> 🕰️ 🌌 Time and space complexity:
+
+|   Complexity   |                                 Explanation                                 |
+| :------------: | :-------------------------------------------------------------------------: |
+| Time **O(n)**  |          we loop twice to join an array and then to split result.           |
+| Space **O(1)** | technically **_O(2)_** since we are creating extra element with same length |
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## <div align="center"> 📬 Contact Information
 
